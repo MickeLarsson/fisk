@@ -2,4 +2,4 @@
 
 pill V
 
-[![Danny Score](https://88d7d91c.ngrok.io/repo/fla/score)]()
+[![Danny Score](https://a8cc1675.ngrok.io/api/repo/fla/score)]()
